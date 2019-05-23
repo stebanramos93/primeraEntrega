@@ -1,0 +1,1 @@
+El estudiante juan con cedula 123 se ha matriculado en el curso 1 Javascript desde 0 que tiene una duracion de 25 horasy un valor de 250000
